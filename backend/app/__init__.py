@@ -1,0 +1,1 @@
+"""Chair Activity Detection API."""

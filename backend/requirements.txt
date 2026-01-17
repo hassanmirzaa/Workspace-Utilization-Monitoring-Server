@@ -1,0 +1,26 @@
+# FastAPI and server
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+python-multipart==0.0.6
+
+# Computer Vision
+opencv-python==4.8.1.78
+numpy==1.24.3
+Pillow==10.1.0
+
+# AI Models
+ultralytics==8.0.196
+mediapipe==0.10.7
+# Note: If you have TensorFlow installed, you may need to upgrade protobuf:
+# pip install --upgrade "protobuf>=4.21.0,<5.0.0"
+# Or uninstall TensorFlow if not needed: pip uninstall tensorflow
+
+# Data validation
+pydantic==2.5.0
+
+# Testing (optional, for test_api.py)
+requests==2.31.0
+
+# Optional: GPU support (uncomment if using CUDA)
+# torch==2.1.0
+# torchvision==0.16.0
