@@ -4,8 +4,9 @@
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104.1-green.svg)](https://fastapi.tiangolo.com/)
 [![YOLOv8](https://img.shields.io/badge/YOLOv8-8.0.196-red.svg)](https://ultralytics.com/)
 [![MediaPipe](https://img.shields.io/badge/MediaPipe-0.10.7-orange.svg)](https://mediapipe.dev/)
+[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Production-ready MVP for real-time chair activity detection using YOLOv8 and MediaPipe. This FastAPI backend processes camera frames from mobile apps and determines chair status (RED/ORANGE/GREEN) based on person detection and hand-on-table analysis.
+> Production-ready MVP for real-time chair activity detection using YOLOv8 and MediaPipe. This FastAPI backend processes camera frames from mobile apps and determines chair status (RED/ORANGE/GREEN) based on person detection and hand-on-table analysis.
 
 ## 🎯 Features
 
